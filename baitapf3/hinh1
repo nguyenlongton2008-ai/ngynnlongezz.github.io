@@ -1,1 +1,24 @@
+<h1>Lịch sinh hoạt hằng tuần</1>
+<table border="1">
+    <tr>
+       <th></th>
+       <th>Thứ Hai</th>
+       <th>Thứ Ba</th>
+       <th>Thứ Tư</th>
+</tr>
+<tr>
+       <td>Sáng</td>
+       <td>Học Chính Khoá</td>
+       <td>Học Chính Khoá</td>
+       <td>Học Chính Khoá</td>
+</tr>
+<tr>
+       <td>Chiều</td>
+       <td>Học Chính Khoá</td>
+       <td>Học Chính Khoá</td>
+       <td>Clb tin học</td>
+</tr>
+</table>
+
+
 
