@@ -1,1 +1,11 @@
-
+<!D0CTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Tiêu đề của trang web
+	</head> 
+	<body>
+		<h1>Đây là phần đầu của trang web</h1>
+		<p>Nội dung của trang</p>
+	<body>
+</html>
